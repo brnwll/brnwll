@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello world! I'm Brian, _a full stack developer student at BloomTech_
+
+[JavaScript, React, HTML, CSS]
 
 <!--
 **brnwll/brnwll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
