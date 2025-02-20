@@ -1,6 +1,4 @@
-Hello world! I'm Brian
-
-[JavaScript, React, HTML, CSS]
+Hello world!
 
 <!--
 **brnwll/brnwll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
