@@ -1,4 +1,4 @@
-Hello world! I'm Brian, _a full stack developer student at BloomTech_
+Hello world! I'm Brian
 
 [JavaScript, React, HTML, CSS]
 
